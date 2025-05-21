@@ -1,0 +1,14 @@
+c:\Users\arthu\Calculator\Calculator\bin\Debug\net9.0\Calculator.exe
+C:\Users\arthu\Calculator\Calculator\bin\Debug\net9.0\Calculator.deps.json
+C:\Users\arthu\Calculator\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+c:\Users\arthu\Calculator\Calculator\bin\Debug\net9.0\Calculator.dll
+c:\Users\arthu\Calculator\Calculator\bin\Debug\net9.0\Calculator.pdb
+c:\Users\arthu\Calculator\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arthu\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+c:\Users\arthu\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+c:\Users\arthu\Calculator\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+c:\Users\arthu\Calculator\Calculator\obj\Debug\net9.0\Calculator.dll
+c:\Users\arthu\Calculator\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+c:\Users\arthu\Calculator\Calculator\obj\Debug\net9.0\Calculator.pdb
+C:\Users\arthu\Calculator\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+C:\Users\arthu\Calculator\Calculator\obj\Debug\net9.0\ref\Calculator.dll
